@@ -3,7 +3,7 @@
 
 
 
-git clone 
+git clone https://github.com/Lucifurge/PyeulShares_Termux.git
 
 
 cd PyeulShares_Termux
